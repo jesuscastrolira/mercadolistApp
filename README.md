@@ -1,4 +1,4 @@
-# mi_proyecto
+# mercadolistApp - 1/100 Flutter Apps I want to create to build knowledge and portfolio.
 
 A new Flutter project.
 
