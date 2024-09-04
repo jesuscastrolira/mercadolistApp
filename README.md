@@ -1,16 +1,13 @@
-# mercadolistApp - 1/100 Flutter Apps I want to create to build knowledge and portfolio.
+MercadolistApp
+MercadolistApp is the first of 100 Flutter apps I plan to develop as part of my journey to build knowledge and expand my portfolio.
 
-A new Flutter project.
+Overview
+This app was born out of a personal need during grocery shopping. I found myself wondering, "Wouldn't it be great to have an app that can quickly calculate how much I'm going to spend?" The answer was a resounding yes, so here I am, developing MercadolistApp.
 
-## Getting Started
+The goal is to develop practical applications with the help of AI, ensuring that each app serves a real-world purpose.
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Features
+Grocery List Management: Add, edit, and remove items from your grocery list.
+Price Calculation: Automatically calculates the total price based on the items in your list.
+AI Integration: Features AI-powered suggestions for similar items or deals based on your list.
+Real-Time Updates: Updates total cost as you modify the list.
